@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Firefox Setup 84.0"
-  comment: "Firefox Setup 84.0"
-  url: "https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/3fdd1318dfa06611263ee86c0c74dcd76fde4cf6763ea411e758b97a0578dee6/Firefox%20Setup%2084.0.exe"
-  file_name: "Firefox Setup 84.0.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "SAO Infinity"
+  comment: "SAO"
+  url: "https://static.emulatorgames.net/static2/roms/playstation-portable/Sword%20Art%20Online%20-%20Infinity%20Moment%20(Japan).7z"
+  file_name: "SAO Infinity Moment.7z"
+  piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
   create:
